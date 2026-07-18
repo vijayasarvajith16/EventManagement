@@ -17,16 +17,13 @@ https://github.com/user-attachments/assets/your-video-id-here
 
 ###  App Screenshots
 | Registration & Login | Student Events Portal |
-| --- | --- |
 | ![Login](assets/Login.png)| ![Register Page](assests/Registration.png)|  |
 
 | Student Dashboard | 
-| --- | --- |
 | ![Register Event](assets/Register_Event.png) 
 
-| Event Details & Participants | Create/Edit Event Form |
-| --- | --- |
-| ![Edit Event](assets/Edit_Event.png) | ![Create Event](assets/Create_Event.png) | ![View Participants](assets/View_Participants.png) | ![GetEvent_ByID](assets/GetEvent_ByID.png)
+| Event Details & Participants | Create/Edit Event Form | View Participants | Search Events
+| ![Edit Event](assets/Edit_Event.png) | ![Create Event](assets/Create_Event.png) | ![View Participants](assets/View_Participants.png) | ![GetEvent_ByID(assets/GetEvent_ByID.png)
 
 ---
 ### Code
