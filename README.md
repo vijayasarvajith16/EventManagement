@@ -17,7 +17,7 @@ A full-stack Event Management System developed for the Computer Science & Engine
 
 ###  App Screenshots
 | Registration & Login | Student Events Portal |
-| ![Login](assets/Login.png)| ![Register Page](assests/Registration.png)
+| ![Login](assets/Login.png)| ![Register Page](assets/Registration.png)
 
 | Student Dashboard | 
 | ![Register Event](assets/Register_Event.png) 
@@ -29,10 +29,10 @@ A full-stack Event Management System developed for the Computer Science & Engine
 ---
 ### Code
 index.js
-| ![index.js](assests/indexjs.png)|
+| ![index.js](assets/indexjs.png)|
 
 Models
-| ![Student Model](assests/Student_Model.png)| ![Event Model](assests/Event_Model)| ![Register Model](assests/Register_Schema.png)
+| ![Student Model](assets/Student_Model.png)| ![Event Model](assets/Event_Model)| ![Register Model](assets/Register_Schema.png)
 
 ## 🛠️ Tech Stack
 
