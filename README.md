@@ -8,7 +8,7 @@ A full-stack Event Management System developed for the Computer Science & Engine
 
 ###  Demo Video
 <!-- Replace 'path/to/demo_video.mp4' with the actual path or URL of your video -->
-https://github.com/user-attachments/assets/your-video-id-here
+![Demo Video](https://github.com/vijayasarvajith16/EventManagement/blob/main/assets/demo_video.mp4)
 
 *Alternatively, embed a local MP4 file:*
 ```html
@@ -23,7 +23,8 @@ https://github.com/user-attachments/assets/your-video-id-here
 | ![Register Event](assets/Register_Event.png) 
 
 | Event Details & Participants | Create/Edit Event Form | View Participants | Search Events
-| ![Edit Event](assets/Edit_Event.png) | ![Create Event](assets/Create_Event.png) | ![View Participants](assets/View_Participants.png) | ![GetEvent_ByID(assets/GetEvent_ByID.png)
+| ![Edit Event](assets/Edit_Event.png) | ![Create Event](assets/Create_Event.png) | ![View Participants](assets/View_Participants.png) 
+| ![GetEvent_ByID](assets/GetEvent_ByID.png)
 
 ---
 ### Code
