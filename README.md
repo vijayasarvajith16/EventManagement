@@ -8,7 +8,7 @@ A full-stack Event Management System developed for the Computer Science & Engine
 
 ###  Demo Video
 <!-- Replace 'path/to/demo_video.mp4' with the actual path or URL of your video -->
-![Demo Video](https://github.com/vijayasarvajith16/EventManagement/assets/demo_video.mp4)
+![Demo Video](assets/demo_video.mp4)
 
 *Alternatively, embed a local MP4 file:*
 ```html
