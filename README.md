@@ -8,12 +8,7 @@ A full-stack Event Management System developed for the Computer Science & Engine
 
 ###  Demo Video
 <!-- Replace 'path/to/demo_video.mp4' with the actual path or URL of your video -->
-![Demo Video](https://github.com/vijayasarvajith16/EventManagement/blob/main/assets/demo_video.mp4))
-
-*Alternatively, embed a local MP4 file:*
-```html
-<video src="assets/demo_video.mp4" width="100%" controls></video>
-```
+![Demo Video](https://github.com/vijayasarvajith16/EventManagement/blob/main/assets/demo_video.mp4)
 
 ###  App Screenshots
 | Registration & Login | Student Events Portal |
