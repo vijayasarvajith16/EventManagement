@@ -4,6 +4,32 @@ A full-stack Event Management System developed for the Computer Science & Engine
 
 ---
 
+## 📸 Screenshots & Demo Video
+
+### 🎥 Demo Video
+<!-- Replace 'path/to/demo_video.mp4' with the actual path or URL of your video -->
+https://github.com/user-attachments/assets/your-video-id-here
+
+*Alternatively, embed a local MP4 file:*
+```html
+<video src="assets/demo_video.mp4" width="100%" controls></video>
+```
+
+### 🖼️ App Screenshots
+| Registration & Login | Student Events Portal |
+| --- | --- |
+| ![Login & Register](assets/login_register.png) | ![Events Portal](assets/student_portal.png) |
+
+| Student Dashboard | Admin Manage Events |
+| --- | --- |
+| ![Student Dashboard](assets/student_dashboard.png) | ![Admin Dashboard](assets/admin_dashboard.png) |
+
+| Event Details & Participants | Create/Edit Event Form |
+| --- | --- |
+| ![Event Details](assets/event_details.png) | ![Event Form](assets/event_form.png) |
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Backend
