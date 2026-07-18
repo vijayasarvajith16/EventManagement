@@ -34,7 +34,7 @@ index.js | DB Connection
 |--|--|
 | ![index.js](assets/indexjs.png)| ![DB Connection](assets/db_connection.png)
 
-Models
+|Student Model| Event Model| Register Model|
 |--|--|--|
 | ![Student Model](assets/Student_Model.png)| ![Event Model](assets/Event_Model.png)| ![Register Model](assets/Register_Schema.png)
 
