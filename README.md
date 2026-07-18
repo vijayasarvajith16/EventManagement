@@ -28,11 +28,11 @@ A full-stack Event Management System developed for the Computer Science & Engine
 
 ---
 ### Code
-index.js
-| ![index.js](assets/indexjs.png)|
+index.js | DB Connection
+| ![index.js](assets/indexjs.png)| ![DB Connection](assets/db_connection.png)
 
 Models
-| ![Student Model](assets/Student_Model.png)| ![Event Model](assets/Event_Model)| ![Register Model](assets/Register_Schema.png)
+| ![Student Model](assets/Student_Model.png)| ![Event Model](assets/Event_Model.png)| ![Register Model](assets/Register_Schema.png)
 
 ## 🛠️ Tech Stack
 
