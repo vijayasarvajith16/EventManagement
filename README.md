@@ -28,7 +28,11 @@ A full-stack Event Management System developed for the Computer Science & Engine
 
 ---
 ### Code
+index.js
+| ![index.js](assests/indexjs.png)|
 
+Models
+| ![Student Model](assests/Student_Model.png)| ![Event Model](assests/Event_Model)| ![Register Model](assests/Register_Schema.png)
 
 ## 🛠️ Tech Stack
 
