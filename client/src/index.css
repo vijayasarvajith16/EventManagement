@@ -411,13 +411,13 @@ input, select, textarea { font-family: inherit; }
 .demo-creds {
   margin-top: 1.25rem;
   padding: 0.75rem 1rem;
-  background: rgba(137,180,250,0.08);
-  border: 1px solid rgba(137,180,250,0.2);
+  background: rgba(124, 58, 237, 0.05);
+  border: 1px solid rgba(124, 58, 237, 0.15);
   border-radius: var(--radius-sm);
   text-align: center;
 }
 .demo-title { font-size: 0.8rem; color: var(--subtext0); margin-bottom: 0.3rem; }
-.demo-creds code { font-size: 0.85rem; color: var(--accent); }
+.demo-creds code { font-size: 0.85rem; color: var(--accent); font-weight: 600; }
 
 /* ===== EVENTS PAGE ===== */
 .page-header {
@@ -477,7 +477,7 @@ input, select, textarea { font-family: inherit; }
 .event-card:hover {
   border-color: var(--accent);
   transform: translateY(-3px);
-  box-shadow: 0 8px 30px rgba(137,180,250,0.15);
+  box-shadow: 0 8px 30px rgba(124, 58, 237, 0.15);
 }
 
 .event-card.past { opacity: 0.6; }
