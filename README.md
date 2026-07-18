@@ -17,7 +17,7 @@ A full-stack Event Management System developed for the Computer Science & Engine
 
 ###  App Screenshots
 | Registration & Login | Student Events Portal |
-| ![Login](assets/Login.png)| ![Register Page](assests/Registration.png)|  |
+| ![Login](assets/Login.png)| ![Register Page](assests/Registration.png)
 
 | Student Dashboard | 
 | ![Register Event](assets/Register_Event.png) 
