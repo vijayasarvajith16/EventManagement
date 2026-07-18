@@ -8,7 +8,7 @@ A full-stack Event Management System developed for the Computer Science & Engine
 
 ###  Demo Video
 <!-- Replace 'path/to/demo_video.mp4' with the actual path or URL of your video -->
-![Demo Video](assets/demo_video.mp4)
+![Demo Video](https://github.com/vijayasarvajith16/EventManagement/blob/main/assets/demo_video.mp4))
 
 *Alternatively, embed a local MP4 file:*
 ```html
@@ -24,15 +24,18 @@ A full-stack Event Management System developed for the Computer Science & Engine
 | ![Register Event](assets/Register_Event.png) 
 
 | Event Details & Participants | Create/Edit Event Form | View Participants | Search Events
+|--|--|--|--|
 | ![Edit Event](assets/Edit_Event.png) | ![Create Event](assets/Create_Event.png) | ![View Participants](assets/View_Participants.png) 
 | ![GetEvent_ByID](assets/GetEvent_ByID.png)
 
 ---
 ### Code
 index.js | DB Connection
+|--|--|
 | ![index.js](assets/indexjs.png)| ![DB Connection](assets/db_connection.png)
 
 Models
+|--|--|--|
 | ![Student Model](assets/Student_Model.png)| ![Event Model](assets/Event_Model.png)| ![Register Model](assets/Register_Schema.png)
 
 ## 🛠️ Tech Stack
